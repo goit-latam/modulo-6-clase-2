@@ -1,4 +1,4 @@
-- Основи подій. Створення та видалення слухачів
-- Об'єкт події
-- Скасування поведінки браузера за замовчуванням
-- Події click, change, input, submit, focus, blur і keydown
+- Eventos. add/remove event lisntener
+- Objeto del Evento
+- Acciones por defecto del navegador
+- Eventos click, change, input, submit, focus, blur і keydown
